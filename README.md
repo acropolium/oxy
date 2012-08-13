@@ -1,4 +1,4 @@
-oxy
-===
+Oxies
+=====
 
-A powerful drug for .Net developers
+Collection of drugs for Oxy project
